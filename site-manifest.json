@@ -1,7 +1,8 @@
 {
   "canonicalUrl": "https://about.picopuppy.com/",
   "designSourceSlug": "apple",
-  "generatedAt": "2026-08-13T03:00:57.103Z",
+  "generatedAt": "2026-08-13T14:43:08.698Z",
+  "publicJsLoaderUrl": "https://kol-js.pages.dev/loader.js",
   "siteId": "site-picopuppy-com",
   "templateSlug": "personal-brand-gallery-minimal",
   "templateVersion": "0.1.0"
